@@ -1,0 +1,10 @@
+4 
+a d g e 
+7 5
+q0 _  q1 _  _  
+q1 _  q2 _  _  
+q2 _  q3 _  _  
+q3 _  _  q4 _  
+q4 q4 q4 q4 q5 
+q5 q4 q4 q4 qf 
+qf q4 q4 q4 q5 
